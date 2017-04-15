@@ -2,6 +2,8 @@
 
 ## Master the fundamentals of React and Redux with this tutorial as you develop apps supported by NPM, Webpack, and ES6
 
+![Certificate](UC-U6EIQ4U3.jpg)
+
 ### Overview
 
 This is just me following along the Udemy course "Modern React with Redux". It can be found at https://www.udemy.com/react-redux/. The original repository can be found at https://github.com/StephenGrider/ReduxCasts.
