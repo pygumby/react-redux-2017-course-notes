@@ -34,7 +34,8 @@ Those can be found within [this repository](https://github.com/lambdarookie/reac
 
 ## 2. Usage
 
-Navigate into the directory of interest, e.g., the `section_3_and_4_book_browser` directory, and do `npm install`, followed by `npm start`. Then, browse to http://localhost:8080/.
+Navigate into the directory of interest, e.g., the `section_3_and_4_book_browser` directory, and do `npm install`, followed by `npm start`.
+Then, browse to http://localhost:8080/.
 
 ## 3. Certificate
 
