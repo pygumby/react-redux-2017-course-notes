@@ -1,6 +1,6 @@
 # react-redux-2017-course-notes
 
-**Notes on and source code from the Udemy course "Modern React with Redux" by Stephen Grider**
+**Notes on and source code from the Udemy course "Modern React with Redux" (2017 edition) by Stephen Grider**
 
 :point_right: This repository represents the 2017 edition of the course, which I completed entirely.
 I also completed some of the projects of the course's 2019 edition.
