@@ -2,10 +2,15 @@
 
 **Notes on and source code from the Udemy course "Modern React with Redux" by Stephen Grider**
 
+:point_right: This repository represents the 2017 edition of the course, which I completed entirely.
+I also completed some of the projects of the course's 2019 edition.
+Those can be found within [this repository](https://github.com/lambdarookie/react-redux-2019-course-notes).
+
 ---
 
 * The contents of this repository are originally based on the Udemy course [Modern React with Redux (link to 2019 edition as 2017 edition is not available anymore)](https://www.udemy.com/react-redux/) by Stephen Grider ([@StephenGrider](https://github.com/StephenGrider), [rallycoding.com](https://www.rallycoding.com/)).
-  This repository only represents a fraction of what is to be found within the course. Also, this repository contains many additions and comments that are not part of the course.
+  This repository only represents a fraction of what is to be found within the course.
+  Also, this repository contains many additions and comments that are not part of the course.
 * The original repository can be found [here](https://github.com/StephenGrider/ReduxCasts).
 
 ---
