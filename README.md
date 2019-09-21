@@ -15,13 +15,18 @@ Those can be found within [this repository](https://github.com/lambdarookie/reac
 
 ---
 
-1. [Progress](#1-progress)
-2. [Usage](#2-usage)
+1. [Usage](#1-usage)
+2. [Progress](#2-progress)
 3. [Certificate](#3-certificate)
 
 ---
 
-## 1. Progress
+## 1. Usage
+
+Navigate into the directory of interest, e.g., the `section_3_and_4_book_browser` directory, and do `npm install`, followed by `npm start`.
+Then, browse to http://localhost:8080/.
+
+## 2. Progress
 
 |  Done?             | Name                                        | Sections         |
 |:------------------:|---------------------------------------------|------------------|
@@ -31,11 +36,6 @@ Those can be found within [this repository](https://github.com/lambdarookie/reac
 | :x:                | `video_browser`                             | ?                |
 
 :point_right: I implemented the `video_browser`, too, but for some reason I did not import it from my old GitHub account along with the other projects.
-
-## 2. Usage
-
-Navigate into the directory of interest, e.g., the `section_3_and_4_book_browser` directory, and do `npm install`, followed by `npm start`.
-Then, browse to http://localhost:8080/.
 
 ## 3. Certificate
 
